@@ -13,9 +13,9 @@ const Experience = () => {
           <ol className="list-disc grid gap-4">
             <li>
               <span className="font-bold ">
-                Shopping Site (Vite, TypeScript, Tailwind CSS):
+                Shopping Site (Vite, React.js, TypeScript, Tailwind CSS):
               </span>{" "}
-              I developed a fully functional shopping website using Vite,
+              I developed a fully functional shopping website using Vite, React.js,
               TypeScript, and Tailwind CSS. I worked independently to design and
               implement reusable components, ensuring scalability and
               maintainability. I utilized Git for version control, applying
