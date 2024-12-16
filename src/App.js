@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 
 const App = () => {
   return (
-    <div className="font-sans bg-gray-100 text-gray-800">
+    <div className="font-sans bg-gray-100 text-gray-800 ">
       <Header />
       <NavBar />
       <main className="container mx-auto p-4">

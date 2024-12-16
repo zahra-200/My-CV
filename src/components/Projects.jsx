@@ -6,6 +6,7 @@ import advice from "./../images/advice.png"
 import space from "./../images/space.png"
 import age from "./../images/ageCalculator.png"
 import productList from "./../images/productWithCart.png"
+import countries from "./../images/countries.png"
 
 const Projects = () => {
   return (
@@ -18,6 +19,18 @@ const Projects = () => {
             <div>
               <img src={Shop} className="w-full h-[95%]" alt="" />
               <p className=" w-full pt-3 text-sm font-medium">Shopping Site</p>
+            </div>
+          </a>
+          <a target="_blank" rel="noopener noreferrer" href="https://rest-countries-sooty-psi.vercel.app/" className="h-max bg-gray-800 text-gray-200 p-4 rounded-lg w-full flex flex-col  hover:scale-90  cursor-pointer transition-all duration-500">
+            <div>
+              <img src={countries} className="w-full h-[95%]" alt="" />
+              <p className=" w-full pt-3 text-sm font-medium">Countries</p>
+            </div>
+          </a>
+          <a target="_blank" rel="noopener noreferrer" href="https://advice-generator-ten-vert.vercel.app/" className="h-max bg-gray-800 text-gray-200 p-4 rounded-lg w-full flex flex-col  hover:scale-90  cursor-pointer transition-all duration-500">
+            <div>
+              <img src={advice} className="w-full h-[95%]" alt="" />
+              <p className=" w-full pt-3 text-sm font-medium">Advice generator App</p>
             </div>
           </a>
           <a target="_blank" rel="noopener noreferrer" href="https://product-list-psi-plum.vercel.app/" className="h-max bg-gray-800 text-gray-200 p-4 rounded-lg w-full flex flex-col  hover:scale-90  cursor-pointer transition-all duration-500">
@@ -44,12 +57,7 @@ const Projects = () => {
               <p className=" w-full pt-3 text-sm font-medium">Weather App</p>
             </div>
           </a>
-          <a target="_blank" rel="noopener noreferrer" href="https://zahra-200.github.io/advice-generator-app/" className="h-max bg-gray-800 text-gray-200 p-4 rounded-lg w-full flex flex-col  hover:scale-90  cursor-pointer transition-all duration-500">
-            <div>
-              <img src={advice} className="w-full h-[95%]" alt="" />
-              <p className=" w-full pt-3 text-sm font-medium">Advice generator App</p>
-            </div>
-          </a>
+          
           <a target="_blank" rel="noopener noreferrer" href="https://zahra-200.github.io/space-tourism-website/" className="h-max bg-gray-800 text-gray-200 p-4 rounded-lg w-full flex flex-col  hover:scale-90  cursor-pointer transition-all duration-500">
             <div>
               <img src={space} className="w-full h-[95%]" alt="" />

@@ -13,7 +13,7 @@ const Experience = () => {
           <ol className="list-disc grid gap-4">
             <li>
               <span className="font-bold ">
-                Shopping Site (Vite, React.js, TypeScript, Tailwind CSS):
+                Shopping Site (Vite, React, TypeScript, Tailwind CSS):
               </span>{" "}
               I developed a fully functional shopping website using Vite, React.js,
               TypeScript, and Tailwind CSS. I worked independently to design and
@@ -28,6 +28,14 @@ const Experience = () => {
               Using React and TailwindCSS.
             </li>
             <li>
+              <span className="font-bold">Countries :</span> Using React, Vite, TypeScript and
+              TailwindCSS.
+            </li>
+            <li>
+              <span className="font-bold">Advice generator app :</span> Using
+              Vite ,React , TailwindCSS and JS.
+            </li>
+            <li>
               <span className="font-bold">Weather app :</span> Using React , TypeScript and
               CSS.
             </li>
@@ -39,10 +47,7 @@ const Experience = () => {
               <span className="font-bold">Product list with cart :</span> Using
               React and TaiwindCSS.
             </li>
-            <li>
-              <span className="font-bold">Advice generator app :</span> Using
-              Html , TailwindCSS and JS.
-            </li>
+            
             <li>
               <span className="font-bold">Space tourism website :</span> Using
               Html , CSS and JS.

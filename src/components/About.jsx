@@ -1,11 +1,18 @@
-import React from 'react';
+import React from "react";
 
 const About = () => {
   return (
     <section id="about" className="my-10">
       <h3 className="text-2xl font-semibold mb-4">About Me</h3>
       <p className="text-gray-700 text-justify">
-      I’m Zahra Assar Enayati, a frontend developer with about 2 years of experience. I enjoy working with React to create dynamic, responsive web applications. One of my key projects is a shopping site I developed using React.js , Vite, TypeScript, and Tailwind CSS, where I focused on building a seamless and efficient user experience. I’m always excited to learn new technologies and deepen my skills to stay on the cutting edge of frontend development.
+        My name is Zahra Assar Enayati, and I am a frontend developer with
+        nearly two years of experience. I specialize in creating dynamic and
+        responsive web applications using modern technologies, including React,
+        Vite, TypeScript, and Tailwind CSS. One of my most significant projects
+        involved developing a shopping site where I focused on delivering a
+        seamless and efficient user experience. I am deeply committed to
+        continuous learning and strive to enhance my skills to remain at the
+        forefront of frontend development.
       </p>
     </section>
   );
