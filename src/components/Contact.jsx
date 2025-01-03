@@ -16,7 +16,7 @@ const Contact = () => {
         {" "}
         <FontAwesomeIcon icon={faLinkedin} /> LinkedIn:{" "}
         <a
-          href="https://www.linkedin.com/in/zahra-enayati-038236266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          href="https://www.linkedin.com/in/zahra-assar-enayati-3b5539344?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0yTpUtrmTMy5o9za7F71aw%3D%3D"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-500 hover:underline"
